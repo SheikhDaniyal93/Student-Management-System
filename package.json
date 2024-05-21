@@ -1,0 +1,27 @@
+{
+  "name": "sda93-student-management-system",
+  "version": "1.0.1",
+  "description": "A robust application for managing students' data, including Enroll Student, Fee Payment, Show Status, Search Student, Delete Student, Attendance, Show Attendance and Exit. Built with Node.js, VS code and Typescript.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SheikhDaniyal93/Student-Management-System.git"
+  },
+  "author": "Sheikh Daniyal Ahmed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SheikhDaniyal93/Student-Management-System/issues"
+  },
+  "homepage": "https://github.com/SheikhDaniyal93/Student-Management-System#readme",
+  "dependencies": {
+    "inquirer": "^9.2.22"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
